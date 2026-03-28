@@ -1,8 +1,8 @@
-Digital Literacy Project
-Student Details
-Name: Saurav singh
-University: VIT Bhopal University
-Course: Digital Literacy
+Digital Literacy Project <br>
+Student Details <br>
+Name: Saurav singh <br>
+University: VIT Bhopal University <br>
+Course: Digital Literacy <br>
 
 Project Overview
 This project focuses on understanding and applying digital literacy skills. It includes tasks related to professional online presence, digital tools, communication, and cybersecurity awareness.
