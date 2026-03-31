@@ -1,7 +1,7 @@
-Digital Literacy Project
-Student Details
-Name: Saurav Singh Reg No.: 25BCE11074
-Branch: B.Tech CSE University: VIT Bhopal University
+Digital Literacy Project<br>
+Student Details<br>
+Name: Saurav Singh Reg No.: 25BCE11074<br>
+Branch: B.Tech CSE University: VIT Bhopal University<br>
 Batch: 2025
 
 Project Overview
